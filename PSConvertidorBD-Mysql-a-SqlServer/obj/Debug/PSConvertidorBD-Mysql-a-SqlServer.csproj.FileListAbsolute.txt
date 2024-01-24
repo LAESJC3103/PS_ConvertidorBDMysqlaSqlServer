@@ -1,0 +1,33 @@
+C:\Proyectos\PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\bin\Debug\PSConvertidorBD-Mysql-a-SqlServer.exe.config
+C:\Proyectos\PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\bin\Debug\PSConvertidorBD-Mysql-a-SqlServer.exe
+C:\Proyectos\PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\bin\Debug\PSConvertidorBD-Mysql-a-SqlServer.pdb
+C:\Proyectos\PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\bin\Debug\Microsoft.VisualBasic.dll
+C:\Proyectos\PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Proyectos\PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\Proyectos\PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\bin\Debug\Interop.ADOX.dll
+C:\Proyectos\PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\obj\Debug\PSConvertidorBD-Mysql-a-SqlServer.csprojResolveAssemblyReference.cache
+C:\Proyectos\PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\obj\Debug\PSConvertidorBD_Mysql_a_SqlServer.Form1.resources
+C:\Proyectos\PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\obj\Debug\PSConvertidorBD_Mysql_a_SqlServer.Properties.Resources.resources
+C:\Proyectos\PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\obj\Debug\PSConvertidorBD-Mysql-a-SqlServer.csproj.GenerateResource.Cache
+C:\Proyectos\PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\obj\Debug\PSConvertidorBD-Mysql-a-SqlServer.exe
+C:\Proyectos\PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\obj\Debug\PSConvertidorBD-Mysql-a-SqlServer.pdb
+C:\Proyectos\PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\bin\Debug\Ionic.Zip.dll
+C:\Proyectos\PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Proyectos\PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\bin\Debug\System.Data.dll
+C:\Users\José Carlos\Documents\Visual Studio 2015\Projects\Original-PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\bin\Debug\EstBDs.mdb
+C:\Users\José Carlos\Documents\Visual Studio 2015\Projects\Original-PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\bin\Debug\PSConvertidorBD-Mysql-a-SqlServer.exe.config
+C:\Users\José Carlos\Documents\Visual Studio 2015\Projects\Original-PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\bin\Debug\PSConvertidorBD-Mysql-a-SqlServer.exe
+C:\Users\José Carlos\Documents\Visual Studio 2015\Projects\Original-PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\bin\Debug\PSConvertidorBD-Mysql-a-SqlServer.pdb
+C:\Users\José Carlos\Documents\Visual Studio 2015\Projects\Original-PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\José Carlos\Documents\Visual Studio 2015\Projects\Original-PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\José Carlos\Documents\Visual Studio 2015\Projects\Original-PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\bin\Debug\System.Data.dll
+C:\Users\José Carlos\Documents\Visual Studio 2015\Projects\Original-PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\obj\Debug\PSConvertidorBD-Mysql-a-SqlServer.csprojResolveAssemblyReference.cache
+C:\Users\José Carlos\Documents\Visual Studio 2015\Projects\Original-PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\obj\Debug\PSConvertidorBD_Mysql_a_SqlServer.Form1.resources
+C:\Users\José Carlos\Documents\Visual Studio 2015\Projects\Original-PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\obj\Debug\PSConvertidorBD_Mysql_a_SqlServer.Properties.Resources.resources
+C:\Users\José Carlos\Documents\Visual Studio 2015\Projects\Original-PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\obj\Debug\PSConvertidorBD-Mysql-a-SqlServer.csproj.GenerateResource.Cache
+C:\Users\José Carlos\Documents\Visual Studio 2015\Projects\Original-PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\obj\Debug\PSConvertidorBD-Mysql-a-SqlServer.exe
+C:\Users\José Carlos\Documents\Visual Studio 2015\Projects\Original-PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\obj\Debug\PSConvertidorBD-Mysql-a-SqlServer.pdb
+C:\Users\José Carlos\Desktop\PROYECTOS-ULT\PS-CONVERTIDOR-MYSQL-TO-SQL\PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\obj\Debug\PSConvertidorBD_Mysql_a_SqlServer.Form1.resources
+C:\Users\José Carlos\Desktop\PROYECTOS-ULT\PS-CONVERTIDOR-MYSQL-TO-SQL\PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\obj\Debug\PSConvertidorBD_Mysql_a_SqlServer.Properties.Resources.resources
+C:\Users\José Carlos\Desktop\PROYECTOS-ULT\PS-CONVERTIDOR-MYSQL-TO-SQL\PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\obj\Debug\PSConvertidorBD-Mysql-a-SqlServer.csproj.GenerateResource.Cache
+C:\Users\José Carlos\Desktop\PROYECTOS-ULT\PS-CONVERTIDOR-MYSQL-TO-SQL\PSConvertidorBD-Mysql-a-SqlServer\PSConvertidorBD-Mysql-a-SqlServer\obj\Debug\PSConvertidorBD-Mysql-a-SqlServer.csproj.CoreCompileInputs.cache
